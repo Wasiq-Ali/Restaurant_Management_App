@@ -1,8 +1,8 @@
 <template>
 	<div class="flex min-h-full flex-1 flex-col justify-center px-6 py-12 lg:px-8">
 		<div class="sm:mx-auto sm:w-full sm:max-w-sm">
-			<h1 class="text-center text-2xl text-black-500">Restaurant Management App</h1>
-			<h2 class="mt-4 text-center text-xl font-bold leading-9 tracking-tight text-gray-900">Sign in to your account</h2>
+			<img class="mx-auto h-56 w-auto" src="../assets/logo/app-logo.png" alt="RMA logo" />
+			<h2 class="mt-2 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">Sign in to your account</h2>
 		</div>
 
 		<div class="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
