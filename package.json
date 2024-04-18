@@ -11,6 +11,7 @@
     "@tailwindcss/forms": "^0.5.7",
     "git": "^0.1.5",
     "gui": "^0.15.3",
+    "json-server": "^1.0.0-alpha.23",
     "sass": "^1.75.0",
     "vue": "^3.4.21"
   },
