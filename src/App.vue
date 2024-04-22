@@ -1,6 +1,6 @@
 <template>
 	<main class="h-screen">
-		<SignUp />
+		<RouterView />
 	</main>
 </template>
 

@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "0dd5",
+      "name": "Sahil Qadeem",
+      "email": "qadeem@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "6385",
+      "name": "Wasiq Ali",
+      "email": "wasiqali990@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "01ae",
+      "name": "Nabeel Ibrahim",
+      "email": "ibrahim331@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "restaurant_name": "Harmain Sharfain",
+      "description": "Home of the all-famous BUTTER CHEESE HANDI! Explore traditional Pakistani flavors at Harmain Sharfain Restaurant in Karachi. Shikari Karahi, Malai Boti.",
+      "since": "2004",
+      "restaurant_code": "HRM008"
+    },
+    {
+      "restaurant_name": "Dine Spot Restaurant",
+      "description": "The Delusion Dining Destination. Dine Spot is a casual dining restaurant serving various mouth-watering Desi Dishes. Unique in Biryani, Pulao, and Qourma.",
+      "since": "2015",
+      "restaurant_code": "DSR780",
+      "id": "2"
+    },
+    {
+      "restaurant_name": "Pizza Max - Landhi",
+      "description": "Satisfy your cheesy cravings with the best pizza in Pakistan. Our pizzas are made fresh every day and delivered fast 24/7 for the MAX experience. Oven-hot scrumptious pizzas since 2009.",
+      "since": "2009",
+      "restaurant_code": "PMZ281",
+      "id": "3"
+    },
+    {
+      "id": "3600",
+      "restaurant_name": "Zeenat Restaurant",
+      "description": "Working With A Professional Team To Surve you The Best Food in Korangi Variety We Have is Fast Food Desi And BBQ Customer Satisfaction is over First Priority.",
+      "since": 2012,
+      "restaurant_code": "ZR98001"
+    },
+    {
+      "restaurant_name": "Noman Restaurant Fast Foods",
+      "description": "Welcome to Noman Restaurant Noman Restaurant is one of the most prestigious and respected restaurants in Karachi and serves Pakistani dishes, Fast food, Chinese.",
+      "since": 1999,
+      "restaurant_code": "NFP7002",
+      "id": "49f3"
+    },
+    {
+      "restaurant_name": "Javed Nihari Restaurant",
+      "description": "We proudly present our world's famous Nihari, which has a rich and royal traditional taste that no one can ever beat. We are bringing you more variety in meals like Paya.",
+      "since": 1993,
+      "restaurant_code": "JNR930",
+      "id": "bf8d"
+    },
+    {
+      "restaurant_name": "Karachi Broast - Tariq Road",
+      "description": "Karachi Broast has been entertaining taste buds with it’s original broast chicken for the last thirty-five years. What started with one tiny restaurant.",
+      "since": 1996,
+      "restaurant_code": "KBGL880",
+      "id": "07fc"
+    }
+  ]
+}
