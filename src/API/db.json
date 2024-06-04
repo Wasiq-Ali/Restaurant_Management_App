@@ -17,6 +17,12 @@
       "name": "Nabeel Ibrahim",
       "email": "ibrahim331@gmail.com",
       "password": "123456"
+    },
+    {
+      "id": "e93d",
+      "name": "wasiq",
+      "email": "ali@gmail.com",
+      "password": "123"
     }
   ],
   "restaurant": [
